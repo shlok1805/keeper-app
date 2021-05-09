@@ -1,8 +1,6 @@
 # keeper-app
 
-Play with it [here](https://k6w7v.csb.app/).
-
-Created a keeper app using ReactJS.
+Created a keeper app using ReactJS. Play with it [here](https://k6w7v.csb.app/).
 
 Feel free to fork the repository.
 
